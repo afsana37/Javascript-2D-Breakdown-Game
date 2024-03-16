@@ -12,3 +12,11 @@
     height: 20px;
     background-color: blueviolet;
 }
+
+.ball{
+    position: absolute;
+    width:20px;
+    height:20px;
+    border-radius: 10px;
+    background-color: brown;
+}
